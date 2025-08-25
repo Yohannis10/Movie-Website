@@ -1,7 +1,8 @@
 'use client';
 import React from 'react';
-import ContentGrid from '../components/ContentGrid';
+
 import { mockDocumentaries } from '../data/mockData';
+import ContentGrid from '../Components/ContentGrid';
 
 const Documentaries: React.FC = () => {
   return (
