@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
-import ContentGrid from '../components/ContentGrid';
 import { mockSeries } from '../data/mockData';
+import ContentGrid from '../Components/ContentGrid';
 
 const Series: React.FC = () => {
   return (
