@@ -3,6 +3,7 @@ import React, { useRef } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import ContentCard from './ContentCard';
 
+
 interface ContentSectionProps {
   title: string;
   items: any[];

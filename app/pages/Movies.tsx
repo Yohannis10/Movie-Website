@@ -2,7 +2,7 @@
 
 
 import { mockMovies } from '../data/mockData';
-import ContentGrid from '../components/ContentGrid';
+import ContentGrid from '../Components/ContentGrid';
 
 
 
